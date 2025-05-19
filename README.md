@@ -7,12 +7,9 @@ Generative AI presents a groundbreaking opportunity to revolutionize this space 
 
 This project aims to develop “The Smartest AI Nutrition Assistant” using state-of-the-art generative AI models that:
 
-· Understand user inputs via text, voice, or image (e.g., food photos, grocery labels)
-
-· Generate personalized meal plans based on health goals, medical conditions, fitness routines, and preferences
-
-· Offer contextual explanations (e.g., “Why is this food better?”)
-
-· Adapt suggestions dynamically with continuous feedback
+- Understand user inputs via text, voice, or image (e.g., food photos, grocery labels)
+- Generate personalized meal plans based on health goals, medical conditions, fitness routines, and preferences
+- Offer contextual explanations (e.g., “Why is this food better?”)
+- Adapt suggestions dynamically with continuous feedback
 
 By integrating health data, food databases, and LLM-powered reasoning, the solution will bridge the gap between one-size-fits-all diet apps and in-person nutrition counselling—delivering an AI that thinks, learns, and cares like a real nutrition expert.
